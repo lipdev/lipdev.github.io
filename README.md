@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 입개발자 모임 홈페이지에 오신것을 환영합니다.
+
+입개발 하느라 아직 본문 수정할 시간이 없습니다. 이해하시죠? :)
 
 You can use the [editor on GitHub](https://github.com/lipdev/lipdev.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
